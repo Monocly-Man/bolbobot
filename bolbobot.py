@@ -34,12 +34,10 @@ def move_embed(move):
     embed = discord.Embed(title=move['Attack'], colour=0x1f3c80)
     if imgname == "faejin-stopper" or imgname == "faejin-parry":
         embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg")
-        print("https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg")
     elif imgname == "back-stagger" or imgname == "front-stagger" or imgname == "side-stagger":
         embed.set_thumbnail(
             url="https://www.michaelshouse.com/wp-content/uploads/2010/10/alcoholic-man-silhouette-600.jpg"
         )
-        print("https://www.michaelshouse.com/wp-content/uploads/2010/10/alcoholic-man-silhouette-600.jpg")
     else:
         embed.set_thumbnail(url=imglink + imgname + ".png")
 
