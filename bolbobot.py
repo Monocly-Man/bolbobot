@@ -97,9 +97,7 @@ async def getmove(ctx):
 
 @bot.command(name="sneak", help="I wonder what this does...")
 async def sneak(ctx):
-    sneaklink = str("https://cdn.discordapp.com/attachments/350772748013928458/849339089668276244/deckfinder.png")
-
-    response = sneaklink
+    response = str("https://cdn.discordapp.com/attachments/350772748013928458/849339089668276244/deckfinder.png")
     await ctx.send(response)
 
 
