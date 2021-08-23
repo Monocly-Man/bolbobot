@@ -1,6 +1,5 @@
 # Absolver Frame Data bot (bolbobot), by Monocly Man
 # Created 25th of July 2021 in python version 3.9.6
-# Last edited 5th August 2021
 import os
 import json
 import discord
