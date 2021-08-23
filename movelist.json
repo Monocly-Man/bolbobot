@@ -1088,7 +1088,7 @@
   {
     "Attack": "Foot Slap",
 	"Start up frame": "13",
-	"Adv. on block": "-1",
+	"Adv. on block": "0",
 	"Adv. on hit": "5",
 	"Target Area": "High",
 	"Target Side": "Same",
