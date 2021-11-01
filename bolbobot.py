@@ -1,5 +1,3 @@
-# Absolver Frame Data bot (bolbobot), by Monocly Man
-# Created 25th of July 2021 in python version 3.9.6
 import os
 import json
 import discord
@@ -9,7 +7,7 @@ from discord.ext import commands
 import alias
 
 # Variables
-__version__ = str("1.1")
+__version__ = str("1.1.1")
 dirname = os.path.dirname(__file__)
 imglink = str("https://absolver.dev/assets/images/")
 
@@ -59,7 +57,7 @@ def move_embed(move):
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 
-bot = commands.Bot(command_prefix='!bolbo ')
+bot = commands.Bot(command_prefix='b! ')
 
 
 @bot.event
@@ -72,7 +70,7 @@ async def on_ready():
 @bot.command(name="get", help="Acquires the frame data of the named move. Aliases accepted, swords not yet available.")
 async def getmove(ctx):
     user_message = ctx.message.content
-    user_message = user_message.replace("!bolbo get ", "")
+    user_message = user_message.replace("b! get ", "")
 
     move_name = user_message.lower()
 
@@ -80,23 +78,25 @@ async def getmove(ctx):
     move_alias = list(filter(lambda x: (move_name in x["alias"]), alias.MOVE_NAMES))
     if move_alias:
         move_name = move_alias[0]["name"]
-        # I know using try except is lazy and bad but i am lazy and bad
         try:
             move = get_move(move_name)
             embed = move_embed(move)
             response = embed
-        except:
-            response = discord.Embed(title="Data not found", colour=0x1f3c80)
+            
+        except IndexError:
+            response = discord.Embed(title="Attack data not found, sword attacks unavailable", colour=0x1f3c80)
 
     else:
-        response = discord.Embed(title="Could not find specified attack", colour=0x1f3c80)
+        response = discord.Embed(title="Attack not found", colour=0x1f3c80)
 
-    await ctx.send(embed=response)
+    await ctx.send(embed=response, delete_after=20)
 
 
 @bot.command(name="sneak", help="I wonder what this does...")
 async def sneak(ctx):
-    response = str("https://cdn.discordapp.com/attachments/350772748013928458/849339089668276244/deckfinder.png")
+    sneaklink = str("https://cdn.discordapp.com/attachments/350772748013928458/849339089668276244/deckfinder.png")
+
+    response = sneaklink
     await ctx.send(response)
 
 
