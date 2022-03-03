@@ -8,10 +8,10 @@ Frame data acquired from [SloClap's official frame data spreadsheet](https://doc
 This bot is inspired and based on the [old Tekken 7 frame bot](https://github.com/BKNR/mokujin) by BKNR.
 
 ## To use
-The command is !bolbo get (movename) to retrieve frame data. Sword moves not done yet.
+The command is "b! get (movename)" to retrieve frame data. Sword moves not done yet.
 There's also a *sneaky* hidden command.
 
 ## The files
 bolbobot.py - The main body of the program.  
 alias.py - A giant dictionary. Used to check for move aliases so the user doesn't have to type the full name of every move and can instead type common alises or shortened names.   
-movelist.json - Contains the data for every attack. Probably should have split this up into separate files cause it's a 1.5k line json now. Eh, it was easier to program this way.
+movelist.json - Contains the data for every attack. Probably should have split this up into separate files cause it's a 1.5k line json now.
