@@ -393,7 +393,7 @@ MOVE_NAMES = [
     },
     {
         "name": "liver knee",
-        "alias": ["liver knee", "liver"]
+        "alias": ["liver knee", "liver", "horizontal knee"]
     },
     {
         "name": "tei-nami",
