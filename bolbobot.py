@@ -7,7 +7,7 @@ from discord.ext import commands
 import alias
 
 # Variables
-__version__ = str("1.1.1")
+__version__ = str("1.2")
 dirname = os.path.dirname(__file__)
 imglink = str("https://absolver.dev/assets/images/")
 
@@ -33,7 +33,7 @@ def move_embed(move):
         embed.set_thumbnail(url="https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg")
     elif imgname == "back-stagger" or imgname == "front-stagger" or imgname == "side-stagger":
         embed.set_thumbnail(
-            url="https://www.michaelshouse.com/wp-content/uploads/2010/10/alcoholic-man-silhouette-600.jpg"
+            url="https://thumbs.dreamstime.com/z/drunk-business-man-wasted-drinking-whiskey-alcoholism-attractive-lying-desk-bottle-problem-alcohol-abuse-addiction-42684912.jpg"
         )
     else:
         embed.set_thumbnail(url=imglink + imgname + ".png")
@@ -78,11 +78,11 @@ async def getmove(ctx):
     move_alias = list(filter(lambda x: (move_name in x["alias"]), alias.MOVE_NAMES))
     if move_alias:
         move_name = move_alias[0]["name"]
+        # I know using try except is lazy and bad but i am lazy and bad
         try:
             move = get_move(move_name)
             embed = move_embed(move)
             response = embed
-            
         except IndexError:
             response = discord.Embed(title="Attack data not found, sword attacks unavailable", colour=0x1f3c80)
 
@@ -94,10 +94,12 @@ async def getmove(ctx):
 
 @bot.command(name="sneak", help="I wonder what this does...")
 async def sneak(ctx):
-    sneaklink = str("https://cdn.discordapp.com/attachments/350772748013928458/849339089668276244/deckfinder.png")
+    await ctx.send("https://cdn.discordapp.com/attachments/350772748013928458/849339089668276244/deckfinder.png")
 
-    response = sneaklink
-    await ctx.send(response)
+
+@bot.command(name="terms", help="Defines cis/trans terminology")
+async def terms(ctx):
+    await ctx.send("**Cis** - Same\n**Trans** - Opposite\nIf an attack hits cis then it strikes from the side you are facing\nSide Kick hits cis, Hook hits trans\nIf an attack's movement is cis it maintains left/right direction.\nWobble's movement is Front to Back Cis. Inside Kick is Front to Back Trans.")
 
 
 # Runs bot
