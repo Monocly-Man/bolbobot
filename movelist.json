@@ -5,11 +5,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "5",
 	"Target Area": "Low",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -18,11 +18,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "3",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -31,11 +31,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "3",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -44,11 +44,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "6",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -57,11 +57,11 @@
 	"Adv. on block": "0",
 	"Adv. on hit": "4",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -70,11 +70,11 @@
 	"Adv. on block": "0",
 	"Adv. on hit": "4",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },
   {
@@ -83,11 +83,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "5",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -96,11 +96,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "Parrying",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "Parries high and mid only"
   },
   {
@@ -109,11 +109,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "8",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -122,11 +122,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "9",
 	"Target Area": "Low",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "Ducking",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },
   {
@@ -135,11 +135,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "9",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Ducking",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -148,11 +148,11 @@
 	"Adv. on block": "7",
 	"Adv. on hit": "11",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "Neutch"
   },
   {
@@ -161,11 +161,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "6",
 	"Target Area": "Low",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "-"
   },
   {
@@ -174,11 +174,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "10",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -187,11 +187,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "11",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -200,11 +200,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -213,11 +213,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -226,11 +226,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -239,11 +239,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "8",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Strafing",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Fastest barehands strafe"
   },
   {
@@ -252,11 +252,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "14",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },{
     "Attack": "Pushed Back Kick",
@@ -264,11 +264,11 @@
 	"Adv. on block": "11",
 	"Adv. on hit": "11",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Breaking",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "Fastest barehands breaker"
   },{
     "Attack": "Roll Uppercut",
@@ -276,11 +276,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "11",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Ducking",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -289,11 +289,11 @@
 	"Adv. on block": "12",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Breaking",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "Widely considered the best breaker in the game"
   },{
     "Attack": "Charged Haymaker",
@@ -301,11 +301,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "10",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Charging",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "-"
   },
   {
@@ -314,11 +314,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "12",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "Jumping",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -327,11 +327,11 @@
 	"Adv. on block": "12",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Breaking",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "Just use Front Kick"
   },
   {
@@ -340,11 +340,11 @@
 	"Adv. on block": "0",
 	"Adv. on hit": "3",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "Jumping",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "Fastest jumping attack in the game"
   },
   {
@@ -353,11 +353,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -366,11 +366,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "8",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "Very accurate name"
   },
   {
@@ -379,11 +379,11 @@
 	"Adv. on block": "12",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Jumping, Breaking",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -392,11 +392,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "3",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Whoever says this move is 8f is wrong and you shouldn't listen to them if you play on PC."
   },
   {
@@ -405,11 +405,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -418,11 +418,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "12",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "Jumping",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "Looks sick"
   },{
     "Attack": "Illusion Twist Kick",
@@ -430,11 +430,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Jumping",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },{
     "Attack": "Falcon Punch",
@@ -442,11 +442,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "13",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Jumping, being bad",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "You can react to this move after the feint window."
   },
   {
@@ -455,11 +455,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "14",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -468,11 +468,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "14",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },{
     "Attack": "Furious Uppercut",
@@ -480,11 +480,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Charging",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "-"
   },
   {
@@ -493,11 +493,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "9",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "Ducking",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -506,11 +506,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "10",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Double",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },
   {
@@ -519,11 +519,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -532,7 +532,7 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "",
 	"Special properties": "-",
@@ -545,11 +545,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "10",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -558,7 +558,7 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "10",
 	"Target Area": "Low",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "-",
@@ -571,11 +571,11 @@
 	"Adv. on block": "12",
 	"Adv. on hit": "5",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Strafing",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -584,11 +584,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "10",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Strafing",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -597,11 +597,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "Has surprising tracking, and sometimes clips avoids"
   },
   {
@@ -610,11 +610,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Double",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -623,11 +623,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "9",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Jumping",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -636,7 +636,7 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
@@ -649,11 +649,11 @@
 	"Adv. on block": "8",
 	"Adv. on hit": "9",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -662,11 +662,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "3",
 	"Target Area": "Low",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -675,11 +675,11 @@
 	"Adv. on block": "7",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Runs faster than listed"
   },
   {
@@ -688,11 +688,11 @@
 	"Adv. on block": "7",
 	"Adv. on hit": "9",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Runs faster than listed, check parry side"
   },
   {
@@ -701,11 +701,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "6",
 	"Target Area": "Low",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Ducking",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -714,11 +714,11 @@
 	"Adv. on block": "15",
 	"Adv. on hit": "15",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Breaking",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -727,12 +727,12 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
-	"Notes": "-"
+	"Stance Transition": "Back to Front Cis",
+	"Notes": "Very strong tracking"
   },
   {
     "Attack": "Bending Palm",
@@ -740,11 +740,11 @@
 	"Adv. on block": "8",
 	"Adv. on hit": "9",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Stopping",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Check impact strength"
   },
   {
@@ -753,11 +753,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "6",
 	"Target Area": "Low",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -766,11 +766,11 @@
 	"Adv. on block": "-1",
 	"Adv. on hit": "4",
 	"Target Area": "Low",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Light",
 	"Special properties": "Ducking",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "Fastest ducking move, minus on block"
   },
   {
@@ -779,11 +779,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "6",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "Inconsistently hits on frame 12.5"
   },
   {
@@ -792,11 +792,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "9",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Jumping",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Aggressively mediocre"
   },
   {
@@ -805,11 +805,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "8",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Jumping",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -818,11 +818,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "6",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "Unreliable adv. on hit. SOH into Side Kick inconsistently interrupted by 12 and 13f moves. Probably +5.5."
   },
   {
@@ -831,11 +831,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "3",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -844,11 +844,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "Runs faster than listed"
   },
   {
@@ -857,11 +857,11 @@
 	"Adv. on block": "13",
 	"Adv. on hit": "13",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "Breaking, Jumping",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -870,11 +870,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "-"
   },
   {
@@ -883,11 +883,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "9",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Parrying",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -896,11 +896,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "4",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Light",
 	"Special properties": "Emotional damage",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -909,11 +909,11 @@
 	"Adv. on block": "15",
 	"Adv. on hit": "15",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Breaking",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "Slowest barehands move"
   },
   {
@@ -922,11 +922,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Double",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "-"
   },
   {
@@ -935,11 +935,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "5",
 	"Target Area": "Low",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Ducking",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -948,11 +948,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "Check parry side"
   },
   {
@@ -961,12 +961,12 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Crane",
-	"Stance Transition": "Front to Back same",
-	"Notes": "Bizarrely good at interrupting, only consistent confirm after flute"
+	"Stance Transition": "Front to Back Cis",
+	"Notes": "Bizarrely good at interrupting"
   },
   {
     "Attack": "Back Turn Wrist",
@@ -974,11 +974,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "3",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -987,12 +987,12 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "5",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
-	"Notes": "Unintuitive parry direction, parry the opposite side you think it hits"
+	"Stance Transition": "Front to Front Cis",
+	"Notes": "Unintuitive parry direction, parry the Trans side you think it hits"
   },
   {
     "Attack": "Double Spike Kick",
@@ -1000,11 +1000,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Double",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1013,11 +1013,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "7",
 	"Target Area": "Low",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Double, Ducking",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1026,11 +1026,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Double",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "Large gap between hits makes it difficult for WF to duck"
   },
   {
@@ -1039,11 +1039,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "Double",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1052,11 +1052,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "8",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1065,11 +1065,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "11",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Charging",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "lumch"
   },
   {
@@ -1078,24 +1078,24 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "10",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
     "Attack": "Foot Slap",
 	"Start up frame": "13",
-	"Adv. on block": "0",
+	"Adv. on block": "-1",
 	"Adv. on hit": "5",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Light",
 	"Special properties": "Jumping",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Negative on block, this move doodoo"
   },
   {
@@ -1104,11 +1104,11 @@
 	"Adv. on block": "7",
 	"Adv. on hit": "8",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1117,11 +1117,11 @@
 	"Adv. on block": "0",
 	"Adv. on hit": "4",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1130,11 +1130,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Medium",
 	"Special properties": "Double",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1143,11 +1143,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "13",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "Strafing",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1156,11 +1156,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "6",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "The good one is Guts with an S"
   },
   {
@@ -1169,11 +1169,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -1182,11 +1182,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "6",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -1195,11 +1195,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "13",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -1212,7 +1212,7 @@
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Charging",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "Omniparriable"
   },
   {
@@ -1221,11 +1221,11 @@
 	"Adv. on block": "-1",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Double, Ducking",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "Creates distance on block and hit, negative on block"
   },{
     "Attack": "Spinning Flute Swing",
@@ -1233,23 +1233,23 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "12",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
-	"Notes": "Only consistent confirm afterwards is Crane"
+	"Stance Transition": "Back to Front Cis",
+	"Notes": "Very good feint"
   },{
     "Attack": "Low Backfist",
 	"Start up frame": "12",
 	"Adv. on block": "4",
 	"Adv. on hit": "6",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },{
     "Attack": "Uraken",
@@ -1257,11 +1257,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "6",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },{
     "Attack": "Heel to Knee",
@@ -1269,11 +1269,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "4",
 	"Target Area": "Low",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -1282,11 +1282,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "6",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back other",
+	"Stance Transition": "Front to Back Trans",
 	"Notes": "-"
   },
   {
@@ -1295,11 +1295,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1308,11 +1308,11 @@
 	"Adv. on block": "1",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back other",
+	"Stance Transition": "Back to Back Trans",
 	"Notes": "-"
   },
   {
@@ -1321,11 +1321,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "6",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1334,11 +1334,11 @@
 	"Adv. on block": "2",
 	"Adv. on hit": "6",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1347,11 +1347,11 @@
 	"Adv. on block": "0",
 	"Adv. on hit": "4",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Light",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "No, this move is not 8 frames on PC. If it was literally everyone would be using it."
   },
   {
@@ -1360,11 +1360,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Vertical",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "This move has no reason to exist, Crane is objectively better and if you really want something that hits trans use Crouching Elbow"
   },
   {
@@ -1373,11 +1373,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "7",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -1386,11 +1386,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "6",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1399,11 +1399,11 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "6",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1412,11 +1412,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "7",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front other",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -1425,11 +1425,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "10",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Medium",
 	"Special properties": "Jumping",
-	"Stance Transition": "Front to Front other",
+	"Stance Transition": "Front to Front Trans",
 	"Notes": "-"
   },
   {
@@ -1438,11 +1438,11 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Double",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1451,11 +1451,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "7",
 	"Target Area": "Low",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front Same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1464,11 +1464,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "9",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "-",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1477,11 +1477,11 @@
 	"Adv. on block": "12",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Breaking",
-	"Stance Transition": "Front to Back same",
+	"Stance Transition": "Front to Back Cis",
 	"Notes": "Has a wide hitbox, letting it clip WF avoids frequently"
   },
   {
@@ -1490,11 +1490,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "11",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Vertical",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1503,11 +1503,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front same",
+	"Stance Transition": "Back to Front Cis",
 	"Notes": "Great move, terrible name"
   },
   {
@@ -1516,11 +1516,11 @@
 	"Adv. on block": "4",
 	"Adv. on hit": "11",
 	"Target Area": "High",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Horizontal",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Front opposite",
+	"Stance Transition": "Back to Front Trans",
 	"Notes": "-"
   },
   {
@@ -1529,12 +1529,12 @@
 	"Adv. on block": "5",
 	"Adv. on hit": "12",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Front to Back same",
-	"Notes": "Can be used to force a whiff as this move creates distance, but it's still not good"
+	"Stance Transition": "Front to Back Cis",
+	"Notes": "Creates significant distance on feint"
   },
   {
     "Attack": "Horse Kick",
@@ -1542,11 +1542,11 @@
 	"Adv. on block": "8",
 	"Adv. on hit": "13",
 	"Target Area": "Mid",
-	"Target Side": "Same",
+	"Target Side": "Cis",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "-",
-	"Stance Transition": "Back to Back same",
+	"Stance Transition": "Back to Back Cis",
 	"Notes": "-"
   },
   {
@@ -1555,11 +1555,11 @@
 	"Adv. on block": "15",
 	"Adv. on hit": "15",
 	"Target Area": "Mid",
-	"Target Side": "Opposite",
+	"Target Side": "Trans",
 	"Attack Type": "Thrust",
 	"Impact": "Strong",
 	"Special properties": "Breaking",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "-"
   },
   {
@@ -1568,11 +1568,11 @@
 	"Adv. on block": "6",
 	"Adv. on hit": "8",
 	"Target Area": "Mid",
-	"Target Side": "Same?",
+	"Target Side": "Cis?",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Stopping, Style ability",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "Insanely powerful, the best pressure tool in the game"
   },
   {
@@ -1581,11 +1581,11 @@
 	"Adv. on block": "0",
 	"Adv. on hit": "10",
 	"Target Area": "High",
-	"Target Side": "Opposite",
+	"Target Side": "Input dependent",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Parrying, Style Ability",
-	"Stance Transition": "Front to Front same",
+	"Stance Transition": "Front to Front Cis",
 	"Notes": "Parry this on the 'wrong' side, the animation is misleading"
   },
   {
@@ -1598,7 +1598,7 @@
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Charging, Style Ability",
-	"Stance Transition": "Same stance",
+	"Stance Transition": "None",
 	"Notes": "Hits cis in frontstance, trans in backstance"
   },
   {
@@ -1611,7 +1611,7 @@
 	"Attack Type": "Horizontal",
 	"Impact": "Medium",
 	"Special properties": "Strafing, Style Ability",
-	"Stance Transition": "Same stance",
+	"Stance Transition": "None",
 	"Notes": "Check parry direction"
   },
   {
@@ -1620,12 +1620,12 @@
 	"Adv. on block": "3",
 	"Adv. on hit": "9",
 	"Target Area": "Mid",
-	"Target Side": "Opposite?",
+	"Target Side": "Trans?",
 	"Attack Type": "Thrust",
 	"Impact": "Medium",
 	"Special properties": "Slipping, Style Ability",
-	"Stance Transition": "Same stance",
-	"Notes": "Has negative range due to movement"
+	"Stance Transition": "None",
+	"Notes": "Has very little range, as the startup creates distance"
   },
   {
     "Attack": "",
