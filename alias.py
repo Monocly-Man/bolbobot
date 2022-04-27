@@ -693,7 +693,7 @@ MOVE_NAMES = [
     },
     {
         "name": "reaching maegeri",
-        "alias": ["reaching maegeri"]
+        "alias": ["reaching maegeri", "maegeri", "rmaegeri", "r maegeri"]
     },
     {
         "name": "jumping risekick",
@@ -709,7 +709,7 @@ MOVE_NAMES = [
     },
     {
         "name": "reaching mawashi",
-        "alias": ["reaching mawashi"]
+        "alias": ["reaching mawashi", "r mawashi", "rmawashi"]
     },
     {
         "name": "plexus elbow",
@@ -725,7 +725,7 @@ MOVE_NAMES = [
     },
     {
         "name": "power mawashi",
-        "alias": ["power mawashi"]
+        "alias": ["power mawashi". "p mawashi", "pmawashi"]
     },
     {
         "name": "run-up strike",
