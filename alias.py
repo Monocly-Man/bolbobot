@@ -725,7 +725,7 @@ MOVE_NAMES = [
     },
     {
         "name": "power mawashi",
-        "alias": ["power mawashi". "p mawashi", "pmawashi"]
+        "alias": ["power mawashi", "p mawashi", "pmawashi"]
     },
     {
         "name": "run-up strike",
