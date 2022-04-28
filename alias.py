@@ -153,6 +153,10 @@ MOVE_NAMES = [
     },
     {
         "name": "head splitter",
+        "alias": ["head splitter"]
+    },
+    {
+        "name": "painstaking slash",
         "alias": ["painstaking slash"]
     },
     {
